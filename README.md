@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou a Larissa Aguiar.
 
-**📚 Sou analista internacional e pesquiso desenvolvimento econômico, indústria espacial e intituições políticas. Atualmente pós-graduanda em Ciência de Dados
-e muito interessada em unir tecnologia, inovação e desenvolvimento econômico.**
+📚 Sou analista internacional e pesquiso desenvolvimento econômico, indústria espacial e intituições políticas. Atualmente pós-graduanda em Ciência de Dados
+e muito interessada em unir tecnologia, inovação e desenvolvimento econômico.
 
 #### 🌱 Atualmente aprendendo:
 
