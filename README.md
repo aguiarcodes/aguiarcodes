@@ -8,6 +8,6 @@ e muito interessada em unir tecnologia, inovação e desenvolvimento econômico.
 💬 Fale comigo:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissadaguiar/)
-[![X]([https://img.shields.io/twitter/url)](https://x.com/interestelaris)
+[![X](https://img.shields.io/twitter/url)](https://x.com/interestelaris)
 
   
