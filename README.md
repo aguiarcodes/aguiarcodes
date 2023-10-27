@@ -1,9 +1,6 @@
 👋 Hi, I’m @aguiarcodes!
-
 👀 I’m interested in international relations, economics, space, sports and data science.
-
 🌱 I’m currently learning Python, SQL and R.
-
 📫 How to reach me:
     X: x.com/interestelaris
     LinkedIn: linkedin.com/in/larissadaguiar
