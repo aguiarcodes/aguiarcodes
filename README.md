@@ -1,14 +1,14 @@
-👋 Hi, I’m @aguiarcodes!
+👋 Olá! Eu sou a Larissa Aguiar.
 
-👀 I’m interested in international relations, economics, space, sports and data science.
+📚 Sou analista internacional e pesquiso desenvolvimento econômico, indústria espacial e intituições políticas. Atualmente pós-graduanda em Ciência de Dados
+e muito interessada em unir tecnologia, inovação e desenvolvimento econômico.
 
-🌱 I’m currently learning Python, SQL and R.
+🌱 Atualmente aprendendo: Python, SQL e R.
 
-📫 How to reach me:
-    X: x.com/interestelaris
-    LinkedIn: linkedin.com/in/larissadaguiar
+💬 Fale comigo:
 
-<!---
-aguiarcodes/aguiarcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/interestelaris)
+[![X]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/twitter/follow/:user
+))](https://x.com/interestelaris)
+
+  
