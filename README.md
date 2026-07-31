@@ -2,9 +2,7 @@
 
 📚 I'm a Political Scientist (MSc, UFMG) and Data Scientist (PUC Minas) working at the intersection of technology, institutions, and development.
 
-I'm interested in technology governance, AI governance, regulatory compliance, and the use of data to support public and organizational decision-making.
-
-#### 🛠️ Tools & Technologies
+#### 🛠️ Tools & Techs
 
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -12,13 +10,13 @@ I'm interested in technology governance, AI governance, regulatory compliance, a
 
 #### 🎯 Areas of Interest
 
-- Technology Governance
-- AI Governance
-- Data Governance
-- Regulatory Compliance (GRC)
-- Development & Innovation Policy
-- Institutional Analysis
-- Data-Driven Decision-Making
+- Development & innovation policy
+- Technology governance
+- AI governance
+- Data governance
+- Space governance
+- Institutional analysis
+- Data-driven decision-making
 
 #### 💬 Get in touch
 
